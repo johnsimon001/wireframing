@@ -32,6 +32,51 @@ Navigation elements let users move through different parts of the product, such 
 <details>
 <summary><strong>3. Content Placement</strong></summary>
 
+## 🗂️ Types of Wireframes
+
+Wireframes can be categorized by their level of detail and realism. The two main types are:
+
+### 🔹 Low-Fidelity Wireframes
+
+Low-fidelity wireframes are rough, schematic representations of a layout. They focus on **structure and content placement** rather than style or aesthetics.
+
+- **Used for:** Brainstorming ideas, discussing structure, early user testing
+- **Visuals:** Boxes, gray tones, placeholder text (e.g., “Image Here”)
+- **Tools:** Paper, Balsamiq, Miro, Whimsical
+
+📌 **Example:**
+
+![Low-Fidelity Wireframe Example](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Wireframe_diagram_example.png/640px-Wireframe_diagram_example.png)
+
+---
+
+### 🔹 High-Fidelity Wireframes
+
+High-fidelity wireframes are detailed and visually close to the final design. They include real content, styling, and even early interactivity.
+
+- **Used for:** Developer handoff, final feedback, advanced prototyping
+- **Visuals:** Fonts, colors, icons, spacing, and functional components
+- **Tools:** Figma, Adobe XD, Sketch
+
+📌 **Example:**
+
+![High-Fidelity Wireframe Example](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*boF7oOe3v8EnUodkDdCEUg.png)
+
+---
+
+## ✅ Type of Wireframe Used in This Project
+
+This project uses a **Low-Fidelity Wireframe**.
+
+📸 **Wireframe Snapshot:**
+
+> *(Replace this with your own wireframe screenshot later)*  
+> Save your image in a folder called `/assets`, and use:
+
+```markdown
+![My Wireframe](assets/my-low-fidelity-wireframe.png)
+
+
 This refers to where textual or visual elements like headlines, images, CTAs, or forms are located on the page.
 
 * **Example:** A homepage that features a bold title at the top, an image beside a product description, and a “Sign Up” button underneath.
